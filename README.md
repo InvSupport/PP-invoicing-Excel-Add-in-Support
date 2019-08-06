@@ -7,7 +7,9 @@ Issue Repport:https://github.com/InvSupport/PP-invoicing-Excel-Add-in-Support/is
 
 
 
-安装建议：安装PayPalExcelAddIn.exe或者PayPalExcelAddIn.msi
+安装建议：
+安装PayPalExcelAddIn.exe或者PayPalExcelAddIn.msi
+
 
 如安装过程中产生如下问题：
 1.操作系统缺少Microsoft .NET Framework 4 
