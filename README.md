@@ -9,7 +9,7 @@ Issue Repport:https://github.com/InvSupport/PP-invoicing-Excel-Add-in-Support/is
 
 安装建议：
 
-下载并安装PayPalExcelAddIn.msi
+点击右上角“clone and download”->"下载zip包",进行下载并安装PayPalExcelAddIn.msi
 
 
 如安装过程中产生如下问题：
