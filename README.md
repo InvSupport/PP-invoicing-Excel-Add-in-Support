@@ -16,6 +16,10 @@ Issue Repport:https://github.com/InvSupport/PP-invoicing-Excel-Add-in-Support/is
 
 
 使用此系统需要预先准备如下一些软件：
+
 Excel
+
 IE浏览器
+
 PayPal Invoicing插件
+
