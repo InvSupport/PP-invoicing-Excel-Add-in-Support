@@ -7,21 +7,21 @@ Issue Repport:https://github.com/InvSupport/PP-invoicing-Excel-Add-in-Support/is
 
 
 
-*安装插件所需环境如下: 
+*Required System Environment: 
 
-     办公软件：Office 2016/2013/2007
+     Microsoft Office：Office 2016/2013
 
-     电脑系统：Win10，Win7
+     Operation System：Win10，Win7
 
-     浏览器：IE（请将IE升级为最新版本，版本太低无法正常使用）
+     Explorer：IE (Please upgrade to the latest version, not support the old version)
 
 
 
-*使用此系统需要预先准备如下一些软件：
+*Required Software：
 
      Excel
 
-     IE浏览器
+     IE Explorer
 
-     PayPal Invoicing插件
+     PayPal Invoicing Plugin
 
