@@ -13,7 +13,7 @@ Issue Repport:https://github.com/InvSupport/PP-invoicing-Excel-Add-in-Support/is
 
      Operation System：Win10，Win7
 
-     Explorer：IE (Please upgrade to the latest version, not support the old version)
+     Explorer：IE (update versions:11.0.175 or higher version)
 
 
 
